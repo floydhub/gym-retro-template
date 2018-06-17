@@ -2,7 +2,7 @@
 
 [Gym Retro](https://blog.openai.com/gym-retro/) is a platform for [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) research on games. It turns out that old games are a perfect fit for benchmarking and improving RL agents in a simulated environment. After two years after the beta release of [Gym](https://blog.openai.com/openai-gym-beta/), OpenAI released an extension of this amazing software by adding more game environments. The goal of the new platform is to study the ability of the agents to *generalize* between games with similar concepts but different appearances.
 
-![test](https://mikelyons.org/images/retro_colab/heavy_tile.png)
+![retro gif](https://github.com/floydhub/gym-retro-template/raw/master/images/retro.gif)
 
 ### Try it now
 
