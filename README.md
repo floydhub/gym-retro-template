@@ -6,7 +6,7 @@
 
 ### Try it now
 
-[![Run on FloydHub](https://s3-us-west-2.amazonaws.com/floydhub-assets/button/button.svg)](https://floydhub.com/run?template=https://github.com/floydhub/gym-retro-template)
+[![Run on FloydHub](https://static.floydhub.com/button/button.svg)](https://floydhub.com/run?template=https://github.com/floydhub/gym-retro-template)
 
 Click this button to open a Workspace on FloydHub that will setup Gym-Retro.
 
